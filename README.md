@@ -1,1 +1,1 @@
-# Arknight-operator-analysis
+# Arknights-operator-analysis
